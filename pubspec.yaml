@@ -87,3 +87,9 @@ flutter:
   #
   # For details regarding fonts from package dependencies,
   # see https://flutter.dev/to/font-from-package
+
+
+  assets:
+    - assets/capstone-exp-66.csv
+    - assets/route66.geojson
+    - assets/Route_66_Database.csv
